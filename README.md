@@ -1,2 +1,2 @@
-# ECE444-F2020-Lab2
-Lab 2 - Flask Web Development
+# Forrest Zhang
+This repo is a clone of https://github.com/miguelgrinberg/flasky
