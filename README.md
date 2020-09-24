@@ -2,7 +2,7 @@
 This repo is a clone of https://github.com/miguelgrinberg/flasky
 
 # Activity 1
-![task1](/screenshots/task1.png)
+![task1](/screenshots/Task1.png)
 
 # Activity 1
-![task2](/screenshots/task2.png)
+![task2](/screenshots/Task2.png)
